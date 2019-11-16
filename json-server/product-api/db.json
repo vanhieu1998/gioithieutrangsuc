@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "tendm": "Trang sức cao cấp"
+    },
+    {
+      "id": 2,
+      "tendm": "Trang sức vàng cao cấp"
+    },
+    {
+      "id": 3,
+      "tendm": "Trang sức đá quý cao cấp"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "gopy": [],
+  "products": [
+    {
+      "tensp": "Bộ trang sức vàng trắng",
+      "gia": "22 000 000",
+      "giakm": "19 999 000",
+      "hinhanh": "/images/botrangsucvang.png",
+      "tendm": "3",
+      "model": "8",
+      "mota": "Bộ trang sức Vàng 14K đính đá CZ PNJ ",
+      "kieuloai": "Bộ trang sức Vàng 14K đính đá CZ PNJ 00132-00103",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "tinhtranghang": true,
+      "trangthai": "H",
+      "id": 8
+    },
+    {
+      "tensp": "Bộ trang sức đá lim cương nhân tạo",
+      "gia": "1 000 000",
+      "giakm": " 950 000",
+      "hinhanh": "/images/botrangsuccuoi.png",
+      "tendm": "1",
+      "model": "9",
+      "mota": "Số lượng: 1 đôi bông tai, 1 nhẫn, 1 mặt dây chuyền, 1 dây chuyền, Chất liệu: Bạc 92.5 (92.5% là bạc, 7.5% còn lại là hợp kim giúp tăng độ sáng ...",
+      "kieuloai": "Thiết kế tinh xảo",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "tensp": "Bộ trang sức thiên thần - tỏa sáng như thiên thần xinh đẹp",
+      "gia": "900 000",
+      "giakm": "850 000",
+      "hinhanh": "/images/7.jpg",
+      "tendm": "1",
+      "model": "10",
+      "mota": "Bộ trang sức Thiên Thần màu xanh lá gắn pha lê cao cấp",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "kieuloai": "Đơn Giản",
+      "tinhtranghang": false,
+      "trangthai": "M"
+    },
+    {
+      "tensp": "Bộ trang sức vàng trắng",
+      "gia": "17000 000",
+      "giakm": "16 500 000",
+      "hinhanh": "/images/6.jpg",
+      "tendm": "1",
+      "model": "11",
+      "mota": "Bộ trang sức bằng vàng 18k và được đính đá Ruby ở chính giũa và xung quanh là 1 vòng tròn được đính kèm bằng kim cương với kiểu dáng thiết kế đơn giản và đẹp mắt",
+      "kieuloai": "Vàng kết hợp đá quý , kim cương",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 11
+    },
+    {
+      "tensp": "Bộ trang sức ngọc trai Shine The Light",
+      "gia": "47 000 000",
+      "giakm": "45 000 000",
+      "hinhanh": "/images/5.jpg",
+      "tendm": "1",
+      "model": "12",
+      "mota": "Mã sản phẩm, S3021, Loại Ngọc Trai, Ngọc trai Tahiti, Loại ngọc chính, Ngọc trai nước mặn, Màu ngọc, Đen, Hình dáng, Tròn, Kích thước ngọc, ...",
+      "kieuloai": "Ngọc Trai",
+      "thuonghieu": "MDstory PearlTalk",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 12
+    },
+    {
+      "tensp": "Vòng đeo tay",
+      "gia": "300 000",
+      "giakm": "250 000",
+      "hinhanh": "/images/4.jpg",
+      "tendm": "1",
+      "model": "13",
+      "mota": "Vòng đeo tay ban đầu bằng bạc 925 925 Pink Heart Heart Fit Pandora với chuỗi an toàn cho phụ nữ Trang sức đích thực....",
+      "kieuloai": "Đơn giản và tinh xảo",
+      "thuonghieu": "Wassup Top Shopping",
+      "tinhtranghang": true,
+      "trangthai": "KM",
+      "id": 13
+    },
+    {
+      "tensp": "Giọt lệ đỏ",
+      "gia": "25 467 000",
+      "giakm": "25 000 000",
+      "hinhanh": "/images/3.jpg",
+      "tendm": "1",
+      "model": "14",
+      "mota": "Bộ trang sức bằng vàng 18k và được đính đá Ruby ở chính giũa và xung quanh là 1 vòng tròn được đính kèm bằng kim cương với kiểu dáng thiết kế đơn giản và đẹp mắt",
+      "kieuloai": "Vàng kết hợp đá quý , kim cương",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 14
+    },
+    {
+      "tensp": "Trang sức vàng",
+      "gia": "20 000 000",
+      "giakm": "18 999 000",
+      "hinhanh": "/images/2.jpg",
+      "tendm": "2",
+      "model": "15",
+      "mota": "Bộ trang sức cưới bằng vàng 24k gồm dây chuyền và nhẫn",
+      "kieuloai": "Được làm tinh tế và phù hợp cho ngày cưới",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 15
+    },
+    {
+      "tensp": "Bạch Kim - Nữ Hoàng của trang sức",
+      "gia": "38 500 000",
+      "giakm": "37 999 000",
+      "hinhanh": "/images/1.png",
+      "tendm": "2",
+      "model": "16",
+      "mota": "Được kết hợp từ kim loại quý bạch kim và được đính kèm rất nhiều kim cương , đá quý ,gắn pha lê Swarovski. Bộ trang sức được dành cho các chị em phụ nữ thích hợp đeo khi tham dự các bữa tiệc,dạ hội,............",
+      "kieuloai": "Thời thượng",
+      "thuonghieu": "Hàng Việt Nam chất lượng cao",
+      "tinhtranghang": true,
+      "trangthai": "M",
+      "id": 16
+    },
+    {
+      "tensp": "Bộ trang sức Sao Biển",
+      "gia": "500000",
+      "giakm": "450000",
+      "hinhanh": "/images/8.jpg",
+      "tendm": "3",
+      "model": "17",
+      "mota": "Bộ trang sức sao biển có hình thù của loài sao biển xinh đẹp. Trang sức sao biển giúp bạn tỏa sáng ở bất cứ nơi bạn xuất hiện",
+      "kieuloai": "Trang sức tinh xảo",
+      "thuonghieu": "Việt Nam",
+      "tinhtranghang": false,
+      "trangthai": "KM",
+      "id": 17
+    }
+  ]
+}
